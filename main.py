@@ -1,3 +1,2 @@
-import IsSubsequence
-
-IsSubsequence
+import SumOfSquareNumbers
+SumOfSquareNumbers
